@@ -14,9 +14,6 @@ environment:
   - VldStackWalkMethod: safe
     Toolset: v140_xp
     Solution: vld_vs14.sln
-  - VldStackWalkMethod: fast
-    Toolset: v140_xp
-    Solution: vld_vs14.sln
 
 platform:
   - Win32
